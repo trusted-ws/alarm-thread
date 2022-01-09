@@ -12,7 +12,7 @@ python3 -m pip install -r requirements.txt
 # Ready to go:
 python3 main.py
 ```
-###### Only tested on *nix with Python 3.9 but also should work in Windows environment.
+###### Only *nix with Python 3.9+ is supported. For Windows environment you'll need to replace the terminal menu logic to something more compatible (GUI library  recommended).
 ##### Project Tree:
 ```
 ├── audios                # Directory containing all audio files.
