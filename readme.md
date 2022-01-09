@@ -12,6 +12,9 @@ python3 -m pip install -r requirements.txt
 # Ready to go:
 python3 main.py
 ```
+##### Usage:
+[![asciicast](https://asciinema.org/a/DgwabAq4cwrOt7FIVqc5vp4ut.svg)](https://asciinema.org/a/DgwabAq4cwrOt7FIVqc5vp4ut)
+
 ###### Only *nix with Python 3.9+ is supported. For Windows environment you'll need to replace the terminal menu logic to something more compatible (GUI library  recommended).
 ##### Project Tree:
 ```
